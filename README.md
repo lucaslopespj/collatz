@@ -53,7 +53,7 @@
 
         147 convergiu para 1 em 116 passos
         Maior número atingido: 9232 em 82 passos
-    
+</pre>
 </p>
 
 <h2>Limites para testes empíricos</h2>
