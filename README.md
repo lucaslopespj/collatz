@@ -53,6 +53,10 @@
 
         147 convergiu para 1 em 116 passos
         Maior número atingido: 9232 em 82 passos
-
-
+    
 </p>
+
+<h2>Limites para testes empíricos</h2>
+<p>
+    Como estamos usando <em>unsigned long int</em> temos um máximo de 32 bits (ou 4 bytes) para armazenar valores numéricos que vão de 0 até 4.294.967.295 (2<sup>32</sup>-1). Isso significa que você pode escolher qualquer número nessa faixa de valores para testar se ele converge para 1.
+<p>
